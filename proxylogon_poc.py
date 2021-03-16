@@ -8,6 +8,11 @@
 # pasted it together. None of this is mine.
 #
 # Enjoy.
+#
+# Sources:
+# - https://www.exploit-db.com/exploits/49637
+# - http://cn-sec.com/archives/289815.html
+# - https://f5.pm/go-62102.html
 #############################################
 
 # Imports
